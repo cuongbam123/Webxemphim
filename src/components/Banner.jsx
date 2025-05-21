@@ -15,7 +15,7 @@ const Banner = () => {
             </p>
             <div className="flex flex-col space-y-4">
               <h1 className="text-[40px] font-bold text-white ">
-                Nghe nói em thích tôi
+                Lưỡi hái tử thần: Huyết thống (2025)
               </h1>
               <div className="flex items-center space-x-3">
                 <img src={IconRating} alt="rating" className="w-8 h-8" />
@@ -25,12 +25,7 @@ const Banner = () => {
                 <img src={IconRatingHalf} alt="rating" className="w-8 h-8" />
               </div>
               <p className="text-white">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the standard dummy text ever
-                since the 1500s, when an unknown printer took a galley of type
-                and scrambled it to make a type specimen book. It has survived
-                not only five centuries, but also the leap into electronic
-                typesetting,
+                Thương hiệu kinh dị đình đám Hollywood Final Destination sẽ trở lại với phần phim mới, hứa hẹn khuấy đảo phòng vé mùa hè 2025. Final Destination: Bloodlines là phần thứ 6 trong series, và cho đến hiện tại, các thông tin về nội dung phần phim này vẫn đang được giữ kín. Bộ đôi Zach Lipovsky và Adam Stein được chọn từ hơn 200 ứng viên để ngồi ghế đạo diễn, trong khi Guy Busick – biên kịch của Ready or Not sẽ chấp bút cho bộ phim. Tony Todd – gương mặt quen thuộc của series cũng sẽ trở lại trong phần 6 với vai diễn William Bludworth.
               </p>
             </div>
 
