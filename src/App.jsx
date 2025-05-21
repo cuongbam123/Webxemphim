@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import Banner from "./components/Banner";
 import Header from "./components/Header";
 import MovieList from "./components/MovieList";
+import Footer from './components/Footer';
 import { useState } from "react";
 import MovieSearch from "./components/MovieSearch";
 import { MovieProvider } from "./context/MovieDetailContext";
@@ -74,6 +75,7 @@ function App() {
           )}
 
           {searchData.length > 0 && <MovieSearch data={searchData} />}
+          <Footer />
         </div>
       </MovieProvider>
     </>
